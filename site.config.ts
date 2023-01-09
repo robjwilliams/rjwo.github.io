@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'Robert Williams portfolio',
 
   // social usernames (optional)
-  twitter: 'robjwilliams_',
-  github: 'rjwo',
+  // twitter: 'robjwilliams_',
+  github: 'robjwilliams',
   linkedin: 'robert-williams-540185116',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
