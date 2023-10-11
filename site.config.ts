@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'portfolio',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'robjwilliams.com',
   author: 'Robert Williams',
 
   // open graph metadata (optional)
